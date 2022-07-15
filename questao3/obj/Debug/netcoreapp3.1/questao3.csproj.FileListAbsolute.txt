@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\bin\Debug\netcoreapp3.1\questao3.exe
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\bin\Debug\netcoreapp3.1\questao3.deps.json
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\bin\Debug\netcoreapp3.1\questao3.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\bin\Debug\netcoreapp3.1\questao3.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\bin\Debug\netcoreapp3.1\questao3.dll
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\bin\Debug\netcoreapp3.1\questao3.pdb
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\obj\Debug\netcoreapp3.1\questao3.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\obj\Debug\netcoreapp3.1\questao3.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\obj\Debug\netcoreapp3.1\questao3.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\obj\Debug\netcoreapp3.1\questao3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\obj\Debug\netcoreapp3.1\questao3.dll
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\obj\Debug\netcoreapp3.1\questao3.pdb
+C:\Users\Acer\Desktop\Estudos\c#_nelio_udemy\Exercicio_Estrutura_Sequencial\questao3\questao3\obj\Debug\netcoreapp3.1\questao3.genruntimeconfig.cache
